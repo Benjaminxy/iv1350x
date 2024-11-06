@@ -1,0 +1,200 @@
+# Created at 2024-06-04T05:51:14.991
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.419s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemOutOfStock() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.419s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemOutOfStock() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.007
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemOutOfStock() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemOutOfStock() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.008
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemOutOfStock() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemOutOfStock() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.009
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemProductNotFound() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemProductNotFound() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.010
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemProductNotFound() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemProductNotFound() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.012
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemProductNotFound() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemProductNotFound() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.013
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testApplyDiscounts() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testApplyDiscounts() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.014
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemSuccess() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemSuccess() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.015
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemSuccess() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemSuccess() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.016
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemSuccess() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.420s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemSuccess() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.017
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemOutOfStock() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemOutOfStock() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.018
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemOutOfStock() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemOutOfStock() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.019
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemOutOfStock() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemOutOfStock() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.021
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemProductNotFound() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemProductNotFound() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.022
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemProductNotFound() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemProductNotFound() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.023
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemProductNotFound() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemProductNotFound() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.024
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testApplyDiscounts() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testApplyDiscounts() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.025
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemSuccess() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemSuccess() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.027
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemSuccess() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemSuccess() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
+# Created at 2024-06-04T05:51:15.028
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemSuccess() is not a subtype of class java.lang.Throwable'.
+java.lang.IllegalArgumentException: Stream stdin corrupted. Expected comma after third character in command '[0.422s][warning][exceptions] Class java.lang.Object in throws clause of method void se.kth.iv1350.amazingpos.model.CurrentSaleTest.testAddItemSuccess() is not a subtype of class java.lang.Throwable'.
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient$OperationalData.<init>(ForkClient.java:507)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.processLine(ForkClient.java:210)
+	at org.apache.maven.plugin.surefire.booterclient.output.ForkClient.consumeLine(ForkClient.java:177)
+	at org.apache.maven.plugin.surefire.booterclient.output.ThreadedStreamConsumer$Pumper.run(ThreadedStreamConsumer.java:88)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+
+
